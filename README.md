@@ -1,3 +1,7 @@
+# react-app
+
+![ypoc](https://miro.medium.com/max/3200/1*EVqCcmCPgpNKxU1wzcTHgw.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
